@@ -10,7 +10,7 @@ package com.mycompany.gitassignmentproject;
  */
 public class Main {
      public static void main(String[] args) {
-        System.out.println("This is main branch version star.");
+        System.out.println("This is conflict-demo version.")
     }
     
 }
